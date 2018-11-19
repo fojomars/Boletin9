@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  * @author fojomars
  */
 public class sumaProducto {
-    public void sumarMultiplicar(){
+    public void sumaMultiplicar(){
         int suma = 0, contador = 10;
         double producto = 1;
         

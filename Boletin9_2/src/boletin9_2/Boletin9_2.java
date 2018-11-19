@@ -17,7 +17,7 @@ public class Boletin9_2 {
     public static void main(String[] args) {
         // TODO code application logic here
         sumaProducto obx = new sumaProducto();
-        obx.sumarMultiplicar();
+        obx.sumaMultiplicar();
     }
     
 }
